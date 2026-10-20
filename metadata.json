@@ -1,0 +1,6 @@
+{
+  "name": "PHIXO X12",
+  "description": "PHIXOverse Space Ranger & FoP 638 imperial console and mission dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
